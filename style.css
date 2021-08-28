@@ -2,3 +2,10 @@
     background-color: darkkhaki;
     color: brown;
 }
+body{
+    text-align: center;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
