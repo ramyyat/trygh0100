@@ -1,6 +1,8 @@
 *{
     background-color: darkkhaki;
     color: brown;
+    border-radius: 21px;
+    box-shadow: cadetblue 1px 1px 11px;
 }
 body{
     text-align: center;
